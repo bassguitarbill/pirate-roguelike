@@ -1,3 +1,5 @@
 GAME NOTES
 
 Some of the rooms in the ship, especially as you go deeper, should be dark. Not sure if you'll need to carry a light or if it should just be a cosmetic difference.
+
+Your hat can get shot off and you can't leave the ship without it

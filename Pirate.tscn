@@ -7,4 +7,4 @@
 [node name="pirate" type="Sprite" parent="."]
 texture = ExtResource( 1 )
 vframes = 4
-hframes = 4
+hframes = 5
